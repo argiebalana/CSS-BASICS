@@ -1,0 +1,27 @@
+#div{
+    background-color: rgb(71, 35, 2);
+    padding: 60px;
+    text-align: center;
+
+}
+#dev2{
+    background-color: rgb(165, 104, 42);
+    text-align: center;
+    padding: 10px;
+
+}
+#foo{
+    background-color: rgb(165, 104, 42);
+    margin-top: 40;
+    border: solid;
+    border-color:rgb(165, 104, 42);
+}
+p.class{
+    color: rgb(43, 22, 2);
+}
+#p1{
+    text-align: center;
+}
+*{
+    font-size: large;
+}
